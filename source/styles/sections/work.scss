@@ -1,35 +1,39 @@
-.work{
+.work {
   padding: 110px 0;
-  color: #fff;
   background-color: #de2b24;
+  color: #fff;
 
+  @media (max-width: 985px) {
+    padding-bottom: 20px;
+    padding-top: 30px;
+  }
 
-  &__list{
+  &__list {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding: 0;
   }
 
-  .title--with-bottom-line{
-    &:after{
+  .title--with-bottom-line {
+    &:after {
       background: #fff;
     }
   }
 
-  &__item{
+  &__item {
     width: 256px;
     height: 255px;
     font-weight: bold;
-    color: #fff;
+    color: #ffffff;
     background: #f35e59;
 
-    &--name{
+    &--name {
       position: relative;
       padding: 130px 40px 75px 40px;
       text-align: center;
 
-      &:before{
+      &:before {
         @include sprite($work-item);
         @include centerer-x();
 
@@ -39,16 +43,16 @@
     }
   }
 
-  &__name{
-    font-size: 1.645rem;
+  &__name {
+    font-size: 1.625rem;
   }
 
-  &__picture{
+  &__picture {
     width: 100%;
     height: 100%;
   }
 
-  &__description{
+  &__description {
     font-size: 1rem;
   }
 }

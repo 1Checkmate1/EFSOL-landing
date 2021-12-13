@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ec312e-07e4-4c65-bc96-7d01c7753637" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source/styles/sections/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/styles/sections/form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/template/sections/form.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/global/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/global/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/global/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/global/button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/global/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/global/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/approach.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/approach.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/styles/sections/work.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/sections/work.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +80,8 @@
       <workItem from="1639133433916" duration="1600000" />
       <workItem from="1639309362108" duration="7415000" />
       <workItem from="1639363932484" duration="1619000" />
-      <workItem from="1639375725466" duration="935000" />
+      <workItem from="1639375725466" duration="1186000" />
+      <workItem from="1639408623630" duration="1889000" />
     </task>
     <servers />
   </component>

@@ -1,70 +1,66 @@
-.footer{
-  &__top{
+.footer {
+  &__top {
     padding: 88px 0 83px;
     text-align: center;
-    background-color: #2a2a2a;
-
+    background: #2a2a2a;
   }
 
-  &__bottom{
-    padding: 25px;
+  &__bottom {
+    padding: 26px;
     text-align: center;
     background: #515151;
   }
 
-  &__title{
-    margin-bottom: 20px;
+  &__title {
+    margin-bottom: 31px;
     font-size: 1.8125rem;
     color: #fff;
     font-family: $ff-main-bold;
   }
 
-  &__social{
+  &__social {
     margin-left: 20px;
     padding: 15px;
     border: 1px solid #515151;
     border-radius: 3px;
-    transition: 0.3s;
-
-    &:hover{
+    &:hover {
       border: 1px solid #de2b24;
     }
 
-    &:first-child{
+    &:first-child {
       margin-left: 0;
     }
   }
-
-  &__links{
-    margin-bottom: 35px;
+  &__links {
+    margin-bottom: 53px;
     color: #fff;
-    .fa{
+
+    .fa {
       color: #fff;
     }
   }
 
-  &__text{
+  &__text {
     margin-bottom: 30px;
     font-size: 0.875rem;
     color: #cecece;
   }
 
-  &__field{
+  &__field {
     width: 67%;
     margin: 0 auto 27px;
-
   }
 
-  &__input{
+  &__input {
     width: 100%;
     padding: 20px;
     font-size: 0.875rem;
+    border: 0;
     color: #cecece;
     background: #515151;
-    border: none;
   }
 
-  .button{
+  .button {
     border: 2px solid #515151;
     padding: 15px 37px;
     box-sizing: border-box;
@@ -72,14 +68,13 @@
     font-family: $ff-main-bold;
     background-color: initial;
     color: #fff;
-    transition: 0.3s;
 
-    &:hover{
+    &:hover {
       border: 2px solid #de2b24;
     }
   }
 
-  &__copy{
+  &__copy {
     font-size: 0.875rem;
     color: #cecece;
   }
