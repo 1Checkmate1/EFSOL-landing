@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ec312e-07e4-4c65-bc96-7d01c7753637" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source/styles/sections/approach.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/styles/sections/work.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/template/sections/approach.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/template/sections/work.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/styles/sections/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/styles/sections/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/template/sections/form.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/styles/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/template/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/template/index.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson-4" />
+        <entry key="$PROJECT_DIR$" value="lesson-6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +69,8 @@
       <workItem from="1639132577634" duration="21000" />
       <workItem from="1639133433916" duration="1600000" />
       <workItem from="1639309362108" duration="7415000" />
-      <workItem from="1639363932484" duration="1342000" />
+      <workItem from="1639363932484" duration="1619000" />
+      <workItem from="1639375725466" duration="935000" />
     </task>
     <servers />
   </component>
